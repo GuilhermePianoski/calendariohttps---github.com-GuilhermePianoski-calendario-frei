@@ -1,0 +1,17 @@
+.comp-cabecalho {
+    display: flex;
+    flex-direction: row;
+    background-color: #313131;
+    align-items: center;
+    gap: 45px;
+    padding: 15px;
+    color: #fff;
+
+    h2 {
+        font: 700 22px 'Roboto';
+    }
+
+    .logo {
+        width: 64px;
+    }
+}

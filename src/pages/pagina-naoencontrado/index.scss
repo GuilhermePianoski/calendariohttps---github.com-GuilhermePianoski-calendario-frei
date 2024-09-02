@@ -1,0 +1,28 @@
+.nao-encontrado{ 
+ background-color: #EDF2F4
+ ;
+    .tu{
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+       justify-content: center;
+       padding: 80px;
+       gap: 70px;
+
+    .texto {
+        display: flex;
+        margin-left: 90px;
+        align-self: start;
+        
+        h2{
+            font-weight: 400;
+        }
+    }
+    
+    .imagem {
+        margin: 40px;
+        display: flex;
+        width: 400px;
+    }
+}
+}
